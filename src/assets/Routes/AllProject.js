@@ -32,8 +32,7 @@ const allProjects = [
   {
     title: "PlantoGuard",
     img: require("../img/Project4.gif"),
-    description:
-      "This is a project to detect fish weight using 2 machine learning models, namely linear regression and polynomial regression",
+    description: "A Flutter-based mobile application that helps farmers and plant activists detect diseases in tomato plants using Machine Learning models. This application is integrated with a Flask-based backend for real-time plant image classification process",
     websiteUrl: "",
     githubUrl: "https://github.com/Rmdsketch/PlantoGuard",
     techStack: ["Flutter", "Mobile", "FlaskAPI"],
