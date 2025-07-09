@@ -40,7 +40,7 @@ function About() {
         <div className="about-right animate__animated animate__fadeIn animate__slower py-3">
           <p>
             Hello, my name is Muhamad Ramadani. I am an Informatics student at
-            Jenderal Achmad Yani University Yogyakarta. I have a strong interest
+            Jenderal Achmad Yani Yogyakarta University. I have a strong interest
             in the field of Fullstack Development and possess a comprehensive
             understanding of web development processes. I have experience
             developing fullstack web applications using Python and am currently
