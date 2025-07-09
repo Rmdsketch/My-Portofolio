@@ -9,7 +9,7 @@ function Projects() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - Project</title>
+          <title>Muhamad Ramadani - Project</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="projects-container">
@@ -30,10 +30,6 @@ function Projects() {
                   <div className="project-content">
                     <h3>{project.title}</h3>
                     <p>{project.description}</p>
-                    {/* <a className="btn-website" href={project.websiteUrl} target="_blank" rel="noreferrer">
-                      <AiOutlineLink className="project-icon" />
-                      &nbsp;&nbsp;Website
-                    </a> */}
                     {project.websiteUrl !== '' ? (
                       project.maintenence === true ? (
                         <a

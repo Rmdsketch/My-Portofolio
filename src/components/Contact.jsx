@@ -28,7 +28,7 @@ function Contact() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - Contact</title>
+          <title>Muhamad Ramadani - Contact</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="contact-wrapper">
@@ -47,7 +47,7 @@ function Contact() {
                     <AiOutlineMail />
                     &nbsp;&nbsp;Email
                   </h3>
-                  <p>muhthoriqas1719@gmail.com</p>
+                  <p>ramadanisketchganteng@gmail.com</p>
                   <CopyToClipboard text="muhthoriqas1719@gmail.com">
                     <button className="btn-copy" onClick={actionCopy}>
                       {alreadyCopy}&nbsp;&nbsp;
@@ -62,9 +62,9 @@ function Contact() {
                     <AiFillLinkedin />
                     &nbsp;&nbsp;Linkedin
                   </h3>
-                  <p>Muhammad Thoriq Ali Said</p>
+                  <p>Muhamad Ramadani</p>
                   <a
-                    href="https://www.linkedin.com/in/thoriqas/"
+                    href="https://www.linkedin.com/in/muhamad-ramadani-937976245/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
@@ -80,9 +80,9 @@ function Contact() {
                     <AiFillGithub />
                     &nbsp;&nbsp;GitHub
                   </h3>
-                  <p>ThoriqAS</p>
+                  <p>RmdSketch</p>
                   <a
-                    href="https://github.com/Muhthoriqas"
+                    href="https://github.com/Rmdsketch"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
@@ -98,9 +98,9 @@ function Contact() {
                     <AiFillInstagram />
                     &nbsp;&nbsp;Instagram
                   </h3>
-                  <p>mthoriq_as</p>
+                  <p>ramadani_sketch</p>
                   <a
-                    href="https://www.instagram.com/mthoriq_as/"
+                    href="https://www.instagram.com/ramadani_sketch/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"

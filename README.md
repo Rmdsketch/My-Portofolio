@@ -1,58 +1,54 @@
-<!-- ABOUT THE PROJECT -->
-## Personal Portofolio
 
-![Thoriq-AS-Project](https://user-images.githubusercontent.com/72277295/218511017-75debb75-bc5a-44b4-9ff1-e81c5c0f0ff2.png)
+# My Personal Portfolio
 
-This is a my personal portotofolio , in this webisite you can see about me, what i do, my certificate, my contact and many more.
+This is my personal portfolio website. In this website, you can see information about me, what I do, my certificates, my contact details, and more.
 
-<b>This project created by Thoriq AS, If you want to copy this project  plesee STAR this repo :) </b>
+## 🚀 Built With
 
+![React](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-brown?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Built With:
-* ![React](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=React&logoColor=white)
-* ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-* ![Jqury](https://img.shields.io/badge/Jqury-brown?style=for-the-badge&logo=jquery&logoColor=white)
+---
 
+## 📄 Reference
 
+This project is adapted and customized based on the following open-source project:
 
-<!-- GETTING STARTED -->
-### Installation
+[Muhthoriqas / My-Portofolio](https://github.com/Muhthoriqas/My-Portofolio)
 
-_Below is the way to run this project on your device. Please star this repo first :)_
+Many thanks to the author for providing a great foundation!
 
-1. Star this repo :)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Muhthoriqas/My-Portofolio.git
+---
+
+## ⚙️ Installation
+
+Below are the steps to run this project on your device:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RmdSketch/My-Portofolio.git
    ```
-3. Go to project
-   ```sh
+2. Navigate to the project directory:
+   ```bash
    cd My-Portofolio
    ```
-4. Open Your Text Editor
-   ```sh
-   code . (for shorcut to open VScode)
+3. Open your text editor (example for VS Code):
+   ```bash
+   code .
    ```
-5. Install NPM
-   ```sh
+4. Install dependencies:
+   ```bash
    npm install
    ```
-6. Run Local Server
-   ```sh
+5. Run the local development server:
+   ```bash
    npm start
    ```
 
-<!-- CONTRIBUTING -->
-### Contributing
+---
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+## 📝 License
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b main `)
-3. Commit your Changes (`git commit -m 'Add some feature'`)
-4. Push to the Branch (`git push origin main`)
-5. Open a Pull Request
-
+This project is for personal portfolio use.  
+Original credits belong to [Muhthoriqas](https://github.com/Muhthoriqas), the author of the referenced repository.
