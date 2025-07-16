@@ -9,14 +9,13 @@ const allProjects = [
     techStack: ["Javascript", "HTML5", "CSS3"],
   },
   {
-    title: "DutaKu Sleman (Team Project)",
+    title: "Dutaku Sleman (Team Project)",
     img: require("../img/Project2.webp"),
     description:
       "Simple Store is a full-stack website, allowing users to add items, earn tokens, and redeem tokens.",
-    maintenence: true,
-    websiteUrl: ".",
+    websiteUrl: "https://dutaku-sleman.vercel.app/",
     githubUrl:
-      "https://github.com/Rmdsketch/Sistem-Pendukung-Keputusan-Pemilihan-Duta-Pariwisata",
+      "https://github.com/Rmdsketch/Dutaku-Sleman",
     techStack: ["React", "Python", "FlaskAPI"],
   },
   {
@@ -30,12 +29,12 @@ const allProjects = [
     techStack: ["Python", "Machine Learning"],
   },
   {
-    title: "PlantoGuard",
+    title: "PlantoGuard (Team Project)",
     img: require("../img/Project4.gif"),
     description: "A Flutter-based mobile application that helps farmers and plant activists detect diseases in tomato plants using Machine Learning models. This application is integrated with a Flask-based backend for real-time plant image classification process",
     websiteUrl: "",
     githubUrl: "https://github.com/Rmdsketch/PlantoGuard",
-    techStack: ["Flutter", "Mobile", "FlaskAPI"],
+    techStack: ["Flutter", "FlaskAPI"],
   },
 ];
 
