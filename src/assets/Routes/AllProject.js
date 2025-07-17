@@ -1,7 +1,10 @@
 const allProjects = [
   {
     title: "Bookshelf App",
-    img: require("../img/Project1.webp"),
+    img: [require("../img/Project1.1.webp"),
+    require("../img/Project1.2.webp"),
+    require("../img/Project1.3.webp"),
+    ],
     description:
       "A DOM and Web Storage-based accounting application, created for submission to Learning to Create a Web Front-End for Beginners – Dicoding Indonesia (Front-End).",
     websiteUrl: "https://rmdsketch.github.io/Bookshelf-App/",
@@ -10,7 +13,15 @@ const allProjects = [
   },
   {
     title: "Dutaku Sleman (Team Project)",
-    img: require("../img/Project2.webp"),
+    img: [require("../img/Project2.1.webp"),
+    require("../img/Project2.2.webp"),
+    require("../img/Project2.3.webp"),
+    require("../img/Project2.4.webp"),
+    require("../img/Project2.5.webp"),
+    require("../img/Project2.6.webp"),
+    require("../img/Project2.7.webp"),
+    require("../img/Project2.8.webp")
+    ],
     description:
       "Simple Store is a full-stack website, allowing users to add items, earn tokens, and redeem tokens.",
     websiteUrl: "https://dutaku-sleman.vercel.app/",
@@ -20,7 +31,9 @@ const allProjects = [
   },
   {
     title: "Classification of Indonesian Herb Leaf Images Using CNN",
-    img: require("../img/Project3.webp"),
+    img: [require("../img/Project3.1.webp"),
+    require("../img/Project3.2.webp")
+    ],
     description:
       "This project aims to identify plant species based on leaf images using the Convolutional Neural Network (CNN) method. The dataset used is the Indonesia Herb Leaf Dataset 3500.",
     websiteUrl: "",
@@ -30,7 +43,7 @@ const allProjects = [
   },
   {
     title: "PlantoGuard (Team Project)",
-    img: require("../img/Project4.gif"),
+    img: [require("../img/Project4.gif"),],
     description: "A Flutter-based mobile application that helps farmers and plant activists detect diseases in tomato plants using Machine Learning models. This application is integrated with a Flask-based backend for real-time plant image classification process",
     websiteUrl: "",
     githubUrl: "https://github.com/Rmdsketch/PlantoGuard",
